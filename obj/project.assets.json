@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevOpsApps\\dotNetTest\\dotNetTest.csproj",
+      "projectUniqueName": "D:\\Jenkins\\dotNetTestproject\\dotNetTest\\dotNetTest.csproj",
       "projectName": "dotNetTest",
-      "projectPath": "D:\\DevOpsApps\\dotNetTest\\dotNetTest.csproj",
+      "projectPath": "D:\\Jenkins\\dotNetTestproject\\dotNetTest\\dotNetTest.csproj",
       "packagesPath": "C:\\Users\\anbadawy\\.nuget\\packages\\",
-      "outputPath": "D:\\DevOpsApps\\dotNetTest\\obj\\",
+      "outputPath": "D:\\Jenkins\\dotNetTestproject\\dotNetTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
